@@ -1,0 +1,9 @@
+* b1df4ba (HEAD -> main, origin/main, origin/HEAD) update git reflog
+* a1ccfa1 add .git/COMMIT_EDITMSG
+* 7b21a1b update history
+* 6d28abc (origin/new-branch-from-initial-commit) add git branch -a
+* d0bcb8d update history
+* 59f78e8 add git reflog
+* a8c6e2f updated file
+* c94ada2 new file
+* a7b4cac Initial commit
