@@ -12,3 +12,15 @@
    12  git commit -m "new file" 
    13  git push
    14  history > common.history.txt.2021-08-28 
+   15  git diff
+   16  git add .
+   17  git commit -m  "updated file" 
+   18  git push
+   19  git log
+   20  git reflog
+   21  git reflog > git.reflog.txt
+   22  git status
+   23  git add .
+   24  git commit -m "add git reflog"
+   25  git push
+   26  history > common.history.txt.2021-08-28 
