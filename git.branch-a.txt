@@ -1,0 +1,4 @@
+  main
+* new-branch-from-initial-commit
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
