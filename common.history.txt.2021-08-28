@@ -24,3 +24,27 @@
    24  git commit -m "add git reflog"
    25  git push
    26  history > common.history.txt.2021-08-28 
+   27  git diff
+   28  git add --all
+   29  git commit -m "update history" 
+   30  git push
+   31  git checkout a7b4cac
+   32  git switch -c new-branch-from-initial-commit
+   33  git branch
+   34  git branch -a
+   35  git branch -a > git.branch-a.txt
+   36  git merge main
+   37  git log
+   38  git branchj
+   39  git branch
+   40  git diff
+   41  git status
+   42  git add .
+   43  git commit -m "add git branch -a"
+   44  git push
+   45      git push --set-upstream origin new-branch-from-initial-commit
+   46  git checkout main
+   47  git pull
+   48  git merge new-branch-from-initial-commit
+   49  git branch -d new-branch-from-initial-commit
+   50  history > common.history.txt.2021-08-28 
