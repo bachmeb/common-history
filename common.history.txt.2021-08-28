@@ -48,3 +48,41 @@
    48  git merge new-branch-from-initial-commit
    49  git branch -d new-branch-from-initial-commit
    50  history > common.history.txt.2021-08-28 
+   51  git siff
+   52  git diff
+   53  git add .
+   54  git commit
+   55  cat /home/brian/files/git/common-history/.git/COMMIT_EDITMSG
+   56  cat /home/brian/files/git/common-history/.git/COMMIT_EDITMSG > git-COMMIT_EDITMSG.txt
+   57  git status
+   58  git add .
+   59  git commit -m "add .git/COMMIT_EDITMSG
+
+I did not know that file was there, until I saw the file name and file path in nano after saying git commit without the -m flag
+"
+   60  git log
+   61  git push
+   62  git reflog
+   63  git reflog > git.reflog.txt
+   64  git diff
+   65  git add .
+   66  git commit -m "update git reflog" 
+   67  git push
+   68  git log --all --decorate --oneline --graph
+   69  git log --all --decorate --oneline --graph > git.log--all--decorate--oneline--graph.txt
+   70  git status
+   71  git add .
+   72  git commit -m "add git log --all --decorate --oneline --graph"
+   73  git push
+   74  git prune origin
+   75  git fetch
+   76  git branch -a
+   77  git branch --v
+   78  git branch --v | grep "\[gone\]" 
+   79  git branch --v | grep "\[gone\]" | awk '{print $1}'
+   80  git branch --v | grep "\[gone\]" | awk '{print $1}' | xargs git branch -D
+   81  git remote update --prune
+   82  git branch -a
+   83  git push origin --delete new-branch-from-initial-commit
+   84  git branch --v
+   85  history > common.history.txt.2021-08-28 
