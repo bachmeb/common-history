@@ -1,3 +1,13 @@
-a8c6e2f HEAD@{0}: commit: updated file
-c94ada2 HEAD@{1}: commit: new file
-a7b4cac HEAD@{2}: clone: from github.com:bachmeb/common-history.git
+a1ccfa1 HEAD@{0}: commit: add .git/COMMIT_EDITMSG
+7b21a1b HEAD@{1}: commit: update history
+6d28abc HEAD@{2}: merge new-branch-from-initial-commit: Fast-forward
+d0bcb8d HEAD@{3}: checkout: moving from new-branch-from-initial-commit to main
+6d28abc HEAD@{4}: commit: add git branch -a
+d0bcb8d HEAD@{5}: merge main: Fast-forward
+a7b4cac HEAD@{6}: checkout: moving from a7b4cac802d1c50d740d63eda26671773edce42f to new-branch-from-initial-commit
+a7b4cac HEAD@{7}: checkout: moving from main to a7b4cac
+d0bcb8d HEAD@{8}: commit: update history
+59f78e8 HEAD@{9}: commit: add git reflog
+a8c6e2f HEAD@{10}: commit: updated file
+c94ada2 HEAD@{11}: commit: new file
+a7b4cac HEAD@{12}: clone: from github.com:bachmeb/common-history.git
