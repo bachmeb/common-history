@@ -1,0 +1,3 @@
+a8c6e2f HEAD@{0}: commit: updated file
+c94ada2 HEAD@{1}: commit: new file
+a7b4cac HEAD@{2}: clone: from github.com:bachmeb/common-history.git
